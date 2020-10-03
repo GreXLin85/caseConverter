@@ -1,0 +1,26 @@
+{
+  "name": "@grexlin85/caseconverter",
+  "version": "1.0.0",
+  "description": "Functions for converting different case styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreXLin85/caseConverter.git"
+  },
+  "keywords": [
+    "case",
+    "camelcase",
+    "pascalcase",
+    "snakecase",
+    "kebabcase"
+  ],
+  "author": "GreXLin85",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreXLin85/caseConverter/issues"
+  },
+  "homepage": "https://github.com/GreXLin85/caseConverter#readme"
+}
